@@ -16,4 +16,4 @@ The Medium article is available [here](https://medium.com/@kavyasri_49247/sports
 
 ## Presentation Slides
 
-<iframe width="100%" height="800" src="/pdf/VisualAnaF.pptx">
+<iframe width="100%" height="800" src="/pdf/VisualAnaF.pdf">
