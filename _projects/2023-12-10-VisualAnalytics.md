@@ -1,11 +1,11 @@
 ---
 title: 'Sports Analysis Using Tableau'
 date: 2023-10-10 00:00:00
-featured_image: '/images/airbnb.jpg'
+featured_image: '/images/IPL.png'
 excerpt: This project combines a passion for cricket and data analytics to discover patterns and develop winning strategies for IPL teams. It aims to reveal insights beyond standard evaluations, focusing on individual and team performances and optimal match strategies.
 ---
 
-![](/images/airbnb.jpg)
+![](/images/IPL.png)
 
 The Indian Premier League India is not just a cricket league; it's a global phenomenon! With a staggering valuation of US$10.9 billion in December 2022 and an enormous watch time of 427.1 billion minutes in the recent season, it's a spectacle to behold.
 
@@ -16,4 +16,4 @@ The Medium article is available [here](https://medium.com/@kavyasri_49247/sports
 
 ## Presentation Slides
 
-<iframe width="100%" height="800" src="/pdf/Airbnb.pdf">
+<iframe width="100%" height="800" src="/pdf/VisualAnaF.pptx">
