@@ -12,8 +12,3 @@ The Indian Premier League India is not just a cricket league; it's a global phen
 As an ex-player and a cricket aficionado, I couldn't resist diving into the data. Merging my love for sports and psychology, I embarked on a quest to unravel the strategic influence of pitches on IPL victories. The focus? Identifying venues where the toss decision – to bat or field – significantly sways the game's outcome.
 
 The Medium article is available [here](https://medium.com/@kavyasri_49247/sports-analytics-unlocking-ipls-winning-strategies-with-tableau-899c663e6c42).
-
-
-## Presentation Slides
-
-<iframe width="100%" height="800" src="/pdf/VisualAnaF.pdf">
