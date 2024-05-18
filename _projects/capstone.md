@@ -9,12 +9,13 @@ excerpt: This project examines the potential of Generative Artificial Intelligen
 
 The project team built an AI-powered chat assistant for investment analysis by leveraging generative AI technologies and publicly available SEC filing data to provide insights and address investor queries.
 
+## Poster
+
+<iframe width="100%" height="800" src="/pdf/Poster.pdf">
+
 ## Presentation Slides
 
 <iframe width="100%" height="800" src="/pdf/IPPPT.pdf">
 
-## Poster
-
-<iframe width="100%" height="800" src="/pdf/Poster.pdf">
 
 
